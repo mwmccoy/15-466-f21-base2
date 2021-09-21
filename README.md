@@ -14,7 +14,7 @@ Files are moved from blender to a .pnct file and a scene file. From these, asset
 
 How To Play:
 
-WASD to move your ship, and space to fire. Don't let any asteroids escape your screen, or you will lose!
+WASD to move your ship, and space to fire. Don't let any asteroids escape your screen, or you will lose! 
 
 Sources: N/A
 
