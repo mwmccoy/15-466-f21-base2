@@ -1,8 +1,8 @@
-# (TODO: your game's title)
+# Earth Defense V: The Killer Asteroids
 
-Author: (TODO: your name)
+Author: Woody McCoy
 
-Design: (TODO: In two sentences or fewer, describe what is new and interesting about your game.)
+Design: Fly around as a spaceship, destroying asteroids before they make it off screen!
 
 Screen Shot:
 
@@ -10,13 +10,13 @@ Screen Shot:
 
 How Your Asset Pipeline Works:
 
-(TODO: describe the steps in your asset pipeline, from source files to tiles/backgrounds/whatever you upload to the PPU466.)
+Files are moved from blender to a .pnct file and a scene file. From these, assets are loaded, and the game copies this data to spawn entities.
 
 How To Play:
 
-(TODO: describe the controls and (if needed) goals/strategy.)
+WASD to move your ship, and space to fire. Don't let any asteroids escape your screen, or you will lose!
 
-Sources: (TODO: list a source URL for any assets you did not create yourself. Make sure you have a license for the asset.)
+Sources: N/A
 
 This game was built with [NEST](NEST.md).
 
